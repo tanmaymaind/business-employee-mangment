@@ -63,7 +63,7 @@ Follow these steps to get the project running on your local machine.
 
 1.  **Clone the Repo**
     ```sh
-    git clone [https://github.com/your-username/business-employee-management.git](https://github.com/your-username/business-employee-management.git)
+    git clone [https://github.com/tanmaymaind/business-employee-management.git](https://github.com/your-username/business-employee-management.git)
     cd business-employee-management
     ```
 
