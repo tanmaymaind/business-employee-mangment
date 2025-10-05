@@ -25,7 +25,7 @@
 | ----------------------- | ------------------------------------------------------------------------------------------------------- |
 | 👤 **Admin Dashboard** | A powerful central hub for admins to manage all employees, view company stats, and handle requests.     |
 | 🌴 **Leave Management** | Employees can request time off, and admins can approve or reject requests with a single click.          |
-|  प्रोफाइल **Self-Service Portal** | Empowers employees to view and update their own profiles, ensuring data is always current.        |
+|  **Self-Service Portal** | Empowers employees to view and update their own profiles, ensuring data is always current.        |
 | 📊 **Data Visualization** | Interactive charts display key metrics, like employee roles and who is on leave today.                  |
 | 🔐 **Secure Auth** | Robust, role-based authentication ensures that users can only access the information they are permitted to. |
 
